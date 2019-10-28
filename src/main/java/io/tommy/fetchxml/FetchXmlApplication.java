@@ -2,9 +2,10 @@ package io.tommy.fetchxml;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 @SpringBootApplication
-public class FetchXmlApplication {
+public class FetchXmlApplication extends SpringBootServletInitializer{
 
 	public static void main(String[] args) {
 		SpringApplication.run(FetchXmlApplication.class, args);
