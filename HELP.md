@@ -34,3 +34,5 @@ https://jenkins.io/doc/book/pipeline/getting-started/#defining-a-pipeline-in-scm
 https://jenkins.io/doc/book/pipeline/docker/
 
 kubernetes
+
+https://stackoverflow.com/questions/30337582/spring-boot-configure-and-use-two-datasources
